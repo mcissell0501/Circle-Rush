@@ -1,2 +1,2 @@
 # **Meet Circle Rush**
-It's the game !(https://scratch.mit.edu/projects/1166294576/)
+It's the game [Hi](https://scratch.mit.edu/projects/1166294576/)
